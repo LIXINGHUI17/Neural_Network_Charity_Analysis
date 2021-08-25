@@ -42,8 +42,8 @@
         - ![9](Resources/9.png)
 
         - Attempt 6
-        - ![12](Resources/8.png)
-        - ![13](Resources/9.png)       
+        - ![12](Resources/12.png)
+        - ![13](Resources/13.png)       
 
         - Actually, I tried more than 20 times in different ways to try to get 75% accuracy, but never did. 
 
