@@ -5,7 +5,7 @@
 - The project aims to analyze and classify the success of charitable donation and examine potential recipients by predicting which organizations are worth donating and which organizations are too risky.
 
 ## Results:
-f
+
 - Data Preprocessing
 
     - ![1](Resources/1.png)
