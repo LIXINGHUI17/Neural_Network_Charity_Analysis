@@ -43,15 +43,20 @@
 
         - Attempt 6
         - ![12](Resources/12.png)
-        - ![13](Resources/13.png)       
+        - ![13](Resources/13.png)
+
+        - Attempt 7
+        - ![14](Resources/14.png)
+        - ![15](Resources/15.png)  
+        - ![16](Resources/16.png)     
 
         - Actually, I tried more than 20 times in different ways to try to get 75% accuracy, but never did. 
 
     - Were you able to achieve the target model performance?
-        - No, the target model performance is 75%, I tried a lot of ways, but never achieved target as 75%. The highest accuracy I could achieve 72.64%
+        - No, the target model performance is 75%, I tried a lot of ways, but never achieved target as 75%. The highest accuracy I could achieve 72.92%
 
     - What steps did you take to try and increase model performance?
-        - I removed noisy variable, added additional neurons, added hidden layers, change activation function to try to increasse performance, but did not achieve the target.
+        - I removed noisy variable, added additional neurons, added hidden layers, change activation function to try to increasse performance and also using kerastuner library to find the best value, but did not achieve the target.
 
 
 ## Summary:
